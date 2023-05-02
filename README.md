@@ -12,6 +12,13 @@ My AmpCome Practical Flutter app
 
 ## Getting Started 🚀
 
+This project contains 4 Operations:
+
+- List of TODO view.
+- Add New TODO.
+- Count of TODO.
+- Swipe to Remove TODO.
+
 This project contains 3 flavors:
 
 - development
